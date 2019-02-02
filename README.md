@@ -42,16 +42,16 @@ INICIO EDAD Y GENERO DE UNA PERSONA
           
           finsi
           
-          si (edad > 17) entonces 
+          si (edad >= 18) entonces 
               escribir "puede votar"
               
-          sino (edad < 18) entonces
+          sino
               escribir "No puede votar"
               
           finsi.    
       FIN.
 
-      
+DIAGRAMA DE FLUJO: https://www.draw.io/#G1tRmbDvxCvewuY9K-eTBr1ABcJgzbZQbQ
       
       
       
